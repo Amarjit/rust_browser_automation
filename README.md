@@ -27,3 +27,4 @@ Tokio provides the async runtime that powers concurrency and (with a multi-threa
 * WebDriver server (e.g., geckodriver for Firefox, chromedriver for Chrome) when using WebDriver clients.
 * The web browser installed on the system
 * Update the code for `caps`, which stands for `capabilities`. It is currently set to `firefox` but you can simply update (chrome, edge, safari)
+* Remove the `headless` line of code if you wish to see the browser automation. 
