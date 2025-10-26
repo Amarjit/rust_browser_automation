@@ -28,3 +28,6 @@ Tokio provides the async runtime that powers concurrency and (with a multi-threa
 * The web browser installed on the system
 * Update the code for `caps`, which stands for `capabilities`. It is currently set to `firefox` but you can simply update (chrome, edge, safari)
 * Remove the `headless` line of code if you wish to see the browser automation. 
+
+# Links
+Very Good Full Documentation [[https://vrtgs.github.io/thirtyfour/?utm_source=chatgpt.com](https://vrtgs.github.io/thirtyfour/introduction.html)]
